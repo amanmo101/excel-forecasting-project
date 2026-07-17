@@ -6,8 +6,10 @@ An Excel-based forecasting model that projects revenue and expenses across multi
 
 This project simulates how a small event/invitation business might plan and track its finances. It forecasts monthly revenue and associated expenses for each event category, then uses Excel's analytical tools to visualize trends, identify revenue distribution patterns, and determine what changes are needed to hit specific monthly revenue goals.
 
-## 🗂️ What's Included
+**🗂️ What's Included**
 
+| Component | Description |
+|---|---|
 | **Budget Forecast** | Month-by-month projected revenue and expenses for each event category (weddings, birthdays, business invitations). |
 | **Trend Chart** | Line/column chart visualizing how revenue and expenses move over the forecast period for each category. |
 | **Distribution Graph** | Visualization showing how total revenue is distributed across the three event categories. |
